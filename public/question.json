@@ -1,0 +1,1508 @@
+{
+  "Fácil": [
+    {
+      "id": 1,
+      "question": "¿Nombre del profesor que le da inventos a Conan?",
+      "imagen": "",
+      "answer": [
+        "Profesor Cardillo",
+        "Profesor Agasa",
+        "Profesor Cordero",
+        "Profesor Lopez"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Nombre del primer opening del anime",
+      "imagen": "",
+      "answer": [
+        "Mune ga dokidoki",
+        "Nazo",
+        "Destiny",
+        "Feel your Heart"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "Nombre del mejor detective del oeste",
+      "imagen": "",
+      "answer": [
+        "Nakamori Ginzō",
+        "Hakuba Saguru",
+        "Kudō Shinichi",
+        "Hattori Heiji"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es el nombre de la mejor amiga de Ran?",
+      "imagen": "",
+      "answer": [
+        "Yoshida Ayumi",
+        "Sera Masumi",
+        "Tōyama Kazuha",
+        "Suzuki Sonoko"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 5,
+      "question": "¿Qué es lo más le gusta comer a Genta?",
+      "imagen": "",
+      "answer": [
+        "Anguilas",
+        "Pizza",
+        "Ramen",
+        "Sushi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 6,
+      "question": "¿De qué color es el hilo del destino?",
+      "imagen": "",
+      "answer": [
+        "Azul",
+        "Morado",
+        "Rojo",
+        "Verde"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "question": "¿En qué parte de la cara se besaron Shinichi y Ran?",
+      "imagen": "",
+      "answer": [
+        "Boca",
+        "Nariz",
+        "Frente",
+        "Mejilla"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 8,
+      "question": "¿Cuál de estos inventos del profesor Agasa solo salió una vez?",
+      "imagen": "",
+      "answer": [
+        "Zapatillas de alta intensidad",
+        "Bentō Fax",
+        "Reloj anestesiante",
+        "Insignia de la Liga Juvenil de Detectives"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 9,
+      "question": "¿En qué año se emitió por primera vez el anime?",
+      "imagen": "",
+      "answer": [
+        "1998",
+        "1994",
+        "1997",
+        "1996"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 10,
+      "question": "¿Cómo se llama el papá de Shinichi?",
+      "imagen": "",
+      "answer": [
+        "Kudō Yūsaku",
+        "Kuroba Tōichi",
+        "Mōri Kogorō",
+        "Akai Shūichi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 11,
+      "question": "De los siguientes personajes, ¿cuál es un oficial de policía?",
+      "imagen": "",
+      "answer": [
+        "Suzuki Sonoko",
+        "Mōri Ran",
+        "Yoshida Ayumi",
+        "Satō Miwako"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 12,
+      "question": "¿En qué ciudad transcurre el anime?",
+      "imagen": "",
+      "answer": [
+        "Ōsaka",
+        "Kyōto",
+        "Tōkyō",
+        "Nagoya"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 13,
+      "question": "¿Cómo se llama la idol de la cual Kogorō está fascinado?",
+      "imagen": "",
+      "answer": [
+        "Terumi Hoshino",
+        "Yuki Takeno",
+        "Yuko Ikuzawa",
+        "Okino Yōko"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 14,
+      "question": "¿Cómo se llama la amiga de la infancia de Heiji?",
+      "imagen": "",
+      "answer": [
+        "Kazuha",
+        "Ran",
+        "Satō",
+        "Kisaki"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 15,
+      "question": "A secret makes a woman, woman. ¿Qué personaje dice esa frase?",
+      "imagen": "",
+      "answer": [
+        "Curaçao",
+        "Vermouth",
+        "Chianti",
+        "Kir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 15,
+      "question": "¿Qué seiyū le da la voz a Shinichi?",
+      "imagen": "",
+      "answer": [
+        "Kirii Daisuke",
+        "Ookawa Tooru",
+        "Yamaguchi Kappei",
+        "Naka Hiroshi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 16,
+      "question": "¿Cuál de todos los miembros de la Liga Juvenil de Detectives es el más alto?",
+      "imagen": "",
+      "answer": [
+        "Mitsuhiko",
+        "Conan",
+        "Genta",
+        "Ayumi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 17,
+      "question": "¿De quién se disfraza Kaitō Kid en la película 3?",
+      "imagen": "",
+      "answer": [
+        "Takagi",
+        "Shiratori",
+        "Kogorō",
+        "Megure"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 18,
+      "question": "¿Cuál es el nombre de la compañera de trabajo de Amuro en el Poirot?",
+      "imagen": "",
+      "answer": [
+        "Okino Yōko",
+        "Suzuki Sonoko",
+        "Mizunashi Rena",
+        "Enomoto Azusa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 19,
+      "question": "¿A quién le dispara Gin pensando que es Sherry en la película 5?",
+      "imagen": "",
+      "answer": [
+        "Miwako Satō",
+        "Suzuki Sonoko",
+        "Haibara",
+        "Enomoto Azusa"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 20,
+      "question": "¿Cómo se llama la escuela primaria a la que asiste Conan?",
+      "imagen": "",
+      "answer": [
+        "Escuela primaria Teitan",
+        "Escuela primaria Chidori",
+        "Escuela primaria Kuyo",
+        "Escuela primaria Icho"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 21,
+      "question": "¿Qué tipo de caso fue el primer caso en el que Conan le ayudó a Kogorō?",
+      "imagen": "",
+      "answer": [
+        "Asesinato",
+        "Secuestro",
+        "Búsqueda de gato perdido",
+        "Suicidio"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 22,
+      "question": "¿Cómo se llama la profesora titular de la clase en la que están los miembros de la Liga Juvenil de Detectives?",
+      "imagen": "",
+      "answer": [
+        "Kisaki Eri",
+        "Namihara Namihara",
+        "Kobayashi Sumiko",
+        "Aiko Nao"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 23,
+      "question": "¿En qué país Shinichi se confiesa a Ran?",
+      "imagen": "",
+      "answer": [
+        "Estados Unidos",
+        "Singapur",
+        "Japón",
+        "Inglaterra"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 24,
+      "question": "¿En dónde se conocieron por primera vez Shinichi y Ran?",
+      "imagen": "",
+      "answer": [
+        "Escuela primaria",
+        "Preparatoria",
+        "Preescolar",
+        "En una plaza"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 24,
+      "question": "¿Nombre de la serie del superhéroe que le encanta a los miembros de Liga Juvenil de Detectives?",
+      "imagen": "",
+      "answer": [
+        "Batman",
+        "Gomera",
+        "Kamen Yaibā",
+        "El chapulín colorado"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 25,
+      "question": "¿Cuál es la profesión de Kisaki Eri?",
+      "imagen": "",
+      "answer": [
+        "Abogada",
+        "Dentista",
+        "Arquitecta",
+        "Cantante"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 26,
+      "question": "¿Cómo se llama el mangaka de Detective Conan?",
+      "imagen": "",
+      "answer": [
+        "Oda Eiichirō",
+        "Aoyama Gōshō",
+        "Hagiwara Daisuke",
+        "Kōji Miura"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 27,
+      "question": "¿Qué miembro de la organización le fuerza a tomar el aptx a Shinichi?",
+      "imagen": "",
+      "answer": [
+        "Vodka",
+        "Tequila",
+        "Vermouth",
+        "Gin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 28,
+      "question": "¿Qué modelo de auto maneja Gin?",
+      "imagen": "",
+      "answer": [
+        "Mercedes CLK320",
+        "Mazda RX-7",
+        "Porsche 356A",
+        "Skyline ER34"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 29,
+      "question": "¿Qué deporte practica Ran?",
+      "imagen": "",
+      "answer": [
+        "Boxeo",
+        "Karate",
+        "Judo",
+        "Esgrima"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 30,
+      "question": "¿Qué instrumento toca Shinichi?",
+      "imagen": "",
+      "answer": [
+        "Guitarra",
+        "Violín",
+        "Saxofón",
+        "Batería"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 31,
+      "question": "¿En qué revista sale el manga de Detective Conan?",
+      "imagen": "",
+      "answer": [
+        "Shūkan Shōnen Sunday",
+        "Shūkan Shōnen Jump",
+        "V Jump",
+        "Shōnen Ace"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 32,
+      "question": "¿Por donde se escapa Sherry de la habitación en la cual fue encerrada por Pisco?",
+      "imagen": "",
+      "answer": [
+        "Por la ventana",
+        "Por un ducto de la limpieza",
+        "Por la chimenea",
+        "Por la puerta"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 33,
+      "question": "¿Cómo se llama el miembro de la organización que se suicida en el capítulo 345?",
+      "imagen": "",
+      "answer": [
+        "Tequila",
+        "Pisco",
+        "Calvados",
+        "Pinga"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 34,
+      "question": "¿Quiénes se iban a “casar” en la película 25?",
+      "imagen": "",
+      "answer": [
+        "Takagi y Satō",
+        "Shinichi y Ran",
+        "Chiba y Naeko",
+        "Shiratori y Kobayashi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 35,
+      "question": "¿Cuando es el cumpleaños de Shinichi?",
+      "imagen": "",
+      "answer": [
+        "10 de octubre",
+        "12 de noviembre",
+        "4 de mayo",
+        "17 de agosto"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 36,
+      "question": "¿Cómo se llama el tío de Sonoko que siempre quiere atrapar a Kaitō Kid?",
+      "imagen": "",
+      "answer": [
+        "Suzuki Tomoko",
+        "Suzuki Ayako",
+        "Suzuki Shiro",
+        "Suzuki Jirokichi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 37,
+      "question": "¿Cómo llama Vermouth a Conan?",
+      "imagen": "",
+      "answer": [
+        "Bala de plata",
+        "Bala de plomo",
+        "Bala de oro",
+        "Bala de titanio"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 38,
+      "question": "Por la pandemia hubo una película que no salió en su año correspondiente, ¿cuál fue?",
+      "imagen": "",
+      "answer": [
+        "Película 22",
+        "Película 24",
+        "Película 23",
+        "Película 21"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 39,
+      "question": "¿Cuál de los siguientes miembros de la organización no está muerto?",
+      "imagen": "",
+      "answer": [
+        "Tequila",
+        "Pisco",
+        "Irish",
+        "Korn"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 40,
+      "question": "¿De qué color visten todos los miembros de la organización que le dio la droga a Shinichi?",
+      "imagen": "",
+      "answer": [
+        "Rojo",
+        "Negro",
+        "Verde",
+        "Azul"
+      ],
+      "correctAnswer": 1
+    }
+  ],
+  "Medio": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la profesión de los padres de Mitsuhiko?",
+      "imagen": "",
+      "answer": [
+        "Son arquitectos",
+        "Son profesores",
+        "Son cantantes",
+        "Son oficinistas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "¿Qué edad cumplió Aoyama Gōshō en el 2025?",
+      "imagen": "",
+      "answer": [
+        "65",
+        "61",
+        "62",
+        "67"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "¿Qué seiyū le da la voz al inspector Megure?",
+      "imagen": "",
+      "answer": [
+        "Rikiya Koyama",
+        "Chafurin",
+        "Kenichi Ogata",
+        "Yukitoshi Hori"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 4,
+      "question": "¿De qué iba disfrazado Kogorō para la fiesta de Halloween en el barco?",
+      "imagen": "",
+      "answer": [
+        "Frankenstein",
+        "Momia",
+        "Hombre Lobo",
+        "Pirata"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo se llama la ardilla de Ayanokōji?",
+      "imagen": "",
+      "answer": [
+        "Alvin",
+        "Maro",
+        "Monoco",
+        "Fluffy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "¿Cuál es la segunda persona que sabe que Conan es Shinichi?",
+      "imagen": "",
+      "answer": [
+        "Heiji",
+        "Haibara",
+        "Agasa",
+        "Eisuke"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "¿Qué seiyū fue el primero en darle la voz Mōri Kogorō?",
+      "imagen": "",
+      "answer": [
+        "Tanaka Nobuo",
+        "Koyama Rikiya",
+        "Okiayu Ryoutarou",
+        "Kamiya Akira"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 8,
+      "question": "En el caso del secuestro de los artistas populares, ¿por quién se hace pasar Conan cuando va a entregar la cinta?",
+      "imagen": "",
+      "answer": [
+        "Haibara",
+        "Maria",
+        "Genta",
+        "Ayumi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 9,
+      "question": "¿En qué película la seiyū de Mitsuhiko fue reemplazada por otra debido a una licencia por maternidad?",
+      "imagen": "",
+      "answer": [
+        "Película 14",
+        "Película 7",
+        "Película 10",
+        "Película 16"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 10,
+      "question": "¿Cómo se llama el gato se Kisaki Eri?",
+      "imagen": "",
+      "answer": [
+        "Karoo",
+        "Mū",
+        "Goro",
+        "Akira"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 11,
+      "question": "¿Qué deporte practicó Shinichi en el colegio?",
+      "imagen": "",
+      "answer": [
+        "Tenis",
+        "Natación",
+        "Badminton",
+        "Fútbol"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 12,
+      "question": "¿Cuál deporte muestran durante la película 21?",
+      "imagen": "",
+      "answer": [
+        "Karuta",
+        "Shōgi",
+        "Go",
+        "Mahjong"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 13,
+      "question": "¿Cómo se llama el lugar en donde Shinichi y Ran se besaron?",
+      "imagen": "",
+      "answer": [
+        "Tokyo Skytree",
+        "Umeda Sky Building",
+        "Kiyomizu-dera",
+        "Sumiyoshi Taisha"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 13,
+      "question": "¿Cómo se llama el opening que estuvo durante los episodios de la excursión carmesí?",
+      "imagen": "",
+      "answer": [
+        "Try Again",
+        "Hane",
+        "Bara iro no jinsei",
+        "Yura Yura"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 14,
+      "question": "¿Como se llama el primer opening que hizo Mai Kuraki?",
+      "imagen": "",
+      "answer": [
+        "Summer Time Gone",
+        "Growing of my heart",
+        "Winter Bells",
+        "Kaze no lalala"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 15,
+      "question": "¿Shinichi iba a ser el mejor detective de qué era de Japón?",
+      "imagen": "",
+      "answer": [
+        "Era Heisei",
+        "Era Shōwa",
+        "Era Reiwa",
+        "Era Taishō"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 15,
+      "question": "¿En qué fecha salió en los cines japones la primera película de Detective Conan?",
+      "imagen": "",
+      "answer": [
+        "17 de abril del 1996",
+        "20 de abril del 1997",
+        "19 de abril del 1997",
+        "18 de abril del 1998"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 16,
+      "question": "¿Como se llama la mamá de Heiji?",
+      "imagen": "",
+      "answer": [
+        "Shizuka",
+        "Sakura",
+        "Midori",
+        "Tomoko"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 17,
+      "question": "¿Como se llama el papá de Genta?",
+      "imagen": "",
+      "answer": [
+        "Bunta",
+        "Genji",
+        "Gankichi",
+        "Kenichi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 17,
+      "question": "¿De quién estaba enamorada Satō antes de Takagi?",
+      "imagen": "",
+      "answer": [
+        "Hagiwara Kenji",
+        "Shiratori Ninzaburō",
+        "Matsuda Jinpei",
+        "Megure Jūzō"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 18,
+      "question": "¿De quién se disfraza Vermouth para intentar secuestrar a Haibara?",
+      "imagen": "",
+      "answer": [
+        "Yonehara Sakurako",
+        "Miike Naeko",
+        "Jodie Starling",
+        "Araide Tomoaki"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 19,
+      "question": "¿Como se llama el asesino que Conan no pudo evitar que se suicidara?",
+      "imagen": "",
+      "answer": [
+        "Asō Seiji",
+        "Hyuga Miyuki",
+        "Miyano Shiho",
+        "Isogami Kaizo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 20,
+      "question": "¿De qué color era la ropa interior de Ran al final del magic file de la película 16?",
+      "imagen": "",
+      "answer": [
+        "Rosada",
+        "Azul",
+        "Blanca",
+        "Verde"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 21,
+      "question": "¿Cuál de los siguientes dos personajes son interpretados por el mismo seiyū?",
+      "imagen": "",
+      "answer": [
+        "Amuro y Agasa",
+        "Megure y Kogorō",
+        "Genta y Takagi",
+        "Ayumi y Haibara"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 22,
+      "question": "¿En qué capítulo, Koyama Rikiya, le empezó a dar la voz a Kogorō?",
+      "imagen": "",
+      "answer": [
+        "548",
+        "556",
+        "560",
+        "553"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 23,
+      "question": "¿Quién asesina a Aquavit en la película 20?",
+      "imagen": "",
+      "answer": [
+        "Gin",
+        "Chianti",
+        "Korn",
+        "Vermouth"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 24,
+      "question": "¿Cuántas veces Haibara ha vuelto a ser Sherry en el transcurso del manga?",
+      "imagen": "",
+      "answer": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 25,
+      "question": "¿Cuántos tomos del manga existen hasta octubre del 2025?",
+      "imagen": "",
+      "answer": [
+        "108",
+        "105",
+        "107",
+        "102"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 26,
+      "question": "¿De qué forma logra Conan volver a su forma original la primera vez?",
+      "imagen": "",
+      "answer": [
+        "Tomando el antídoto",
+        "Gracias al paikaru",
+        "Tranfusión de sangre",
+        "Gracias a un invento del profesor Agasa"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 27,
+      "question": "¿Cómo se llama el episodio en el que Heiji y Kazuha casi caen de un precipicio?",
+      "imagen": "",
+      "answer": [
+        "Y la sirena desapareció",
+        "Un caballo rojo dentro de la llama",
+        "El paradero del vergonzoso amuleto",
+        "Castillo Inubushi, el perro endemoniado de la llama"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 27,
+      "question": "¿Cuál es el nombre de la droga APTX 4869?",
+      "imagen": "",
+      "answer": [
+        "Apotoxin 4869",
+        "Apoptoxin 4869",
+        "Apotixon 4869",
+        "Apotoxon 4869"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 28,
+      "question": "En el capítulo 304(12 millones de rehenes), ¿cuál fue el total de la pista que Conan pudo obtener antes de apagar la bomba?",
+      "imagen": "",
+      "answer": [
+        "XTR",
+        "EVIT",
+        "NAT",
+        "ERA"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 29,
+      "question": "¿En qué película los padres de Ran vuelve a vivir juntos temporalmente?",
+      "imagen": "",
+      "answer": [
+        "Película 8",
+        "Película 2",
+        "Película 4",
+        "Película 12"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 30,
+      "question": "¿Qué era lo que siempre pintaba Kisaragi Hōsui en la película 5?",
+      "imagen": "",
+      "answer": [
+        "Templo Kinkakuji",
+        "Castillo de Ōsaka",
+        "Torre Tōkyō",
+        "Monte Fuji"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 31,
+      "question": "¿En qué vagón y sala se iba a llevar a cabo el incidente que era parte del evento durante el viaje en los capítulos 701-704, “El tren del misterio azabache“?",
+      "imagen": "",
+      "answer": [
+        "Vagón 6, Sala C",
+        "Vagón 8, Sala A",
+        "Vagón 7, Sala B",
+        "Vagón 8, Sala D"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 32,
+      "question": "¿Cómo se llama la persona que se le confesó a Shinichi y que no es Ran?",
+      "imagen": "",
+      "answer": [
+        "Kanno Yayoi",
+        "Kusaka Toshiko",
+        "Sakurai Yuko",
+        "Uchida Asami"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 33,
+      "question": "¿En cuantos openings ha participado Kuraki Mai?",
+      "imagen": "",
+      "answer": [
+        "7",
+        "14",
+        "11",
+        "9"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 34,
+      "question": "¿Cómo se llama el barco en el que se desarrolla la película 9?",
+      "imagen": "",
+      "answer": [
+        "Aphrodite",
+        "Southern Cross",
+        "Yashiro-maru N°1",
+        "Jenny"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 35,
+      "question": "¿Con quién estuvo casado Aoyama Gōshō?",
+      "imagen": "",
+      "answer": [
+        "Hidaka Noriko",
+        "Hayashibara Megumi",
+        "Yamazaki Wakana",
+        "Takayama Minami"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 36,
+      "question": "¿Cuántos openings han salido hasta octubre del 2025?",
+      "imagen": "",
+      "answer": [
+        "55",
+        "64",
+        "51",
+        "60"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 37,
+      "question": "¿Cuántos endings han salido hasta octubre del 2025?",
+      "imagen": "",
+      "answer": [
+        "64",
+        "55",
+        "73",
+        "80"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 38,
+      "question": "¿Cuál de los siguientes detectives apareció primero en una película antes que en el manga?",
+      "imagen": "",
+      "answer": [
+        "Yamato Kansuke",
+        "Yamamura Misao",
+        "Miike Naeko",
+        "Shiratori Ninzaburō"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 39,
+      "question": "¿Cómo se llama la canción que escuchan Ran y Shinichi camino a casa y que los hace dejar de estar peleados en el magic file 2?",
+      "imagen": "",
+      "answer": [
+        "Amazing Grace",
+        "Ai wa itsumo",
+        "HAPPY END",
+        "I'll Be There"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 40,
+      "question": "¿Cómo se llama la secretaria de Kisaki Eri?",
+      "imagen": "",
+      "answer": [
+        "Kuriyama Midori",
+        "Tanigawao Noe",
+        "Kawaguchi Mizuki",
+        "Kira Hasue"
+      ],
+      "correctAnswer": 0
+    }
+  ],
+  "Difícil": [
+    {
+      "id": 1,
+      "question": "En el anime, ¿cuál de todos los miembros de la Liga Juvenil de Detectives le habla primero a Conan?",
+      "imagen": "",
+      "answer": [
+        "Haibara",
+        "Mitsuhiko",
+        "Ayumi",
+        "Genta"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 2,
+      "question": "Nombre del ending 16 del anime",
+      "imagen": "",
+      "answer": [
+        "Start in my life",
+        "Wasurezaki",
+        "Overture",
+        "Shiroi Yuki"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "En la primera vez que aparece Kyōgoku Makoto, ¿cómo se llama la ciudad en la que ocurre el caso?",
+      "imagen": "",
+      "answer": [
+        "Kōbe",
+        "Niigata",
+        "Izu",
+        "Yokohama"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "Cómo se llama la profesora que le hizo clases de niños a Shinichi y Ran, y que termina cometiendo un asesinato múltiple?",
+      "imagen": "",
+      "answer": [
+        "Isami Nagakura",
+        "Rika Okano",
+        "Yonehara Akiko",
+        "Aki Asano"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "¿Por qué yo no pude ser japonés? ¿Por qué no pudo ella ser estadounidense? Esta frase, ¿de qué caso es?",
+      "imagen": "",
+      "answer": [
+        "Los hinaningyō teñidos del atardecer",
+        "Mansión de la muerte, pared roja",
+        "Castillo Inubushi, el perro endemoniado de la llama",
+        "El misterio de la mansión araña de Tottori"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 6,
+      "question": "¿Cuál es el nombre del deportista que Shinichi admiraba y que comete un asesinato?",
+      "imagen": "",
+      "answer": [
+        "Ray Curtis",
+        "Nakaoka Kazumasa",
+        "Miura Kazuyoshi",
+        "Ryusuke Higo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 7,
+      "question": "¿Cuál es el nombre del culpable del caso en la primera aparición de Heiji?",
+      "imagen": "",
+      "answer": [
+        "Hideko Kamijo",
+        "Kimie Tsujimura",
+        "Masuko Tsuchiya",
+        "Kaori Shinmei"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 8,
+      "question": "¿Cuál es el opening que ha durado más capítulos?",
+      "imagen": "",
+      "answer": [
+        "Mune ga dokidoki",
+        "Butterfly Core",
+        "Unraveling Love ～Sukoshi no yuuki～",
+        "Miss Mistery"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 9,
+      "question": "¿Cuál es el ending que ha durado más capítulos?",
+      "imagen": "",
+      "answer": [
+        "Yesterday Love",
+        "Hello Mr. my yesterday",
+        "Free Magic",
+        "Wasurezaki"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 10,
+      "question": "¿Cuál es la fecha de cumpleaños de la seiyū de Satō, Yuya Atsuko?",
+      "imagen": "",
+      "answer": [
+        "31 de mayo",
+        "23 de mayo",
+        "4 de diciembre",
+        "1 de septiembre"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 11,
+      "question": "¿Cuál es la fecha del cumpleaños de Aoyama Gōshō?",
+      "imagen": "",
+      "answer": [
+        "21 de junio",
+        "30 de marzo",
+        "25 de julio",
+        "2 de diciembre"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 12,
+      "question": "¿Quién vive en el barrio Beika, distrito 2, número 22?",
+      "imagen": "",
+      "answer": [
+        "Agasa Hiroshi",
+        "Kudō Shinichi",
+        "Mōri Kogorō",
+        "Sera Masumi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 13,
+      "question": "¿Cuál es el número de la habitación del hotel en el que estaban Yūsaku y Yukiko disfrazados la primera vez que aparecieron? ",
+      "imagen": "",
+      "answer": [
+        "55",
+        "407",
+        "301",
+        "97"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 14,
+      "question": "¿Cuál es la marca del vino que Sonoko intercambia en el ova 2?",
+      "imagen": "",
+      "answer": [
+        "Chateau Margaux",
+        "Chateau Lafite",
+        "Chateau Latour",
+        "Le Pin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 15,
+      "question": "¿Cómo se llama el asesino serial que apuñala a Conan en Ōsaka?",
+      "imagen": "",
+      "answer": [
+        "Sakata Yūsuke",
+        "Numabuchi Kiichirō",
+        "Togano Kento",
+        "Mito Kōichi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 16,
+      "question": "¿Cuál es la contraseña del teléfono móvil de Conan?",
+      "imagen": "",
+      "answer": [
+        "3683",
+        "4956",
+        "1783",
+        "4869"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 17,
+      "question": "¿Cómo se llama el único asesino que descuartizó a su víctima?",
+      "imagen": "",
+      "answer": [
+        "Hamada Kouji",
+        "Takahashi Ryoichi",
+        "Ushio Bunzo",
+        "Muramatsu Akio"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 18,
+      "question": "¿Cómo se llama el director de la escuela primaria Teitan?",
+      "imagen": "",
+      "answer": [
+        "Dejima Hitoshi",
+        "Aonogi Ryoichi",
+        "Sakihara Kazuo",
+        "Uematsu Ryūjirō"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 19,
+      "question": "¿Cómo se llama la joya que Kaitō Kid quería robar en el capítulo “Kaitō Kid vs. Makoto Kyōgoku”?",
+      "imagen": "",
+      "answer": [
+        "Blue Birthday",
+        "Black Star",
+        "Blue Wonder",
+        "Green Emperor"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 20,
+      "question": "¿De qué nivel es la bacteria que se roban en la película 14?",
+      "imagen": "",
+      "answer": [
+        "Nivel 5",
+        "Nivel 3",
+        "Nivel 2",
+        "Nivel 4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 21,
+      "question": "¿En qué fecha salió el primer tomo del manga?",
+      "imagen": "",
+      "answer": [
+        "25 de mayo 1994",
+        "3 de junio 1994",
+        "17 de junio 1994",
+        "5 de julio 1994"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 22,
+      "question": "¿A qué hora transmiten el anime en Japón?",
+      "imagen": "",
+      "answer": [
+        "17:00",
+        "14:30",
+        "19:00",
+        "18:00"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 23,
+      "question": "¿De cuantas yardas es la distancia máxima de disparo que pueden hacer Chianti y Korn en el episodio 425?",
+      "imagen": "",
+      "answer": [
+        "500 yardas",
+        "600 yardas",
+        "575 yardas",
+        "550 yardas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 24,
+      "question": "¿Cómo se llama el niño que estuvo en coma en la película 15?",
+      "imagen": "",
+      "answer": [
+        "Matsubara Chiharu",
+        "Funemoto Tōji",
+        "Tachihara Tōma",
+        "Kajimoto Kouta"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 25,
+      "question": "¿Quién canta el opening “Namida no Yesterday”?",
+      "imagen": "",
+      "answer": [
+        "Aiuchi Rina",
+        "ZARD",
+        "GARNET CROW",
+        "B'z"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 26,
+      "question": "¿Quién canta el ending “Sekai Tomete”?",
+      "imagen": "",
+      "answer": [
+        "Kamiki Aya",
+        "Kuraki Mai",
+        "BREAKERZ",
+        "Takei Shiori"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 27,
+      "question": "¿Cómo se llama el bebé que cuidan Heiji, Kazuha y Conan en el magic file 4?",
+      "imagen": "",
+      "answer": [
+        "Kaoru",
+        "Hikaru",
+        "Haruka",
+        "Motegi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 29,
+      "question": "¿Qué le regala Kogorō a Eri por su cumpleaños?",
+      "imagen": "",
+      "answer": [
+        "Una caja de chocolates",
+        "Un vino",
+        "Un collar de perlas",
+        "Cuentas de oración/juzu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 30,
+      "question": "¿Qué número de carta de la baraja le pertenecía al inspector Megure en la película 2?",
+      "imagen": "",
+      "answer": [
+        "6",
+        "9",
+        "1",
+        "13"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 31,
+      "question": "¿En dónde aterriza Ran el avión en la película 8?",
+      "imagen": "",
+      "answer": [
+        "Aeropuerto de Haneda",
+        "Muelle Sakimori",
+        "Autopista Hokkaidō",
+        "Monte Tate"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 32,
+      "question": "¿Qué escribió Ran en su tarjeta de deseo cuando era niña en el recuerdo del magic file 3?",
+      "imagen": "",
+      "answer": [
+        "Deseo que Shinichi sea mi novio",
+        "Espero que mi mamá vuelva pronto a casa",
+        "Quiero ganar el próximo torneo de karate",
+        "Deseo que papá no tome tanto alcohol"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 33,
+      "question": "¿En qué número de casillero/taquilla dejó Conan el disco de Itakura para que Vodka lo recogiera? ",
+      "imagen": "",
+      "answer": [
+        "0024",
+        "0018",
+        "0032",
+        "0044"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 34,
+      "question": "¿Cuál es el opening, que no haya estado en un solo capítulo, que menos ha durado?",
+      "imagen": "",
+      "answer": [
+        "Glorious Mind",
+        "Miss Mistery",
+        "Mysterious",
+        "Tear Drops"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 35,
+      "question": "¿Cuál es el ending, que no haya estado en un solo capítulo, que menos ha durado?",
+      "imagen": "",
+      "answer": [
+        "Pilgrim",
+        "Overture",
+        "Thank You For Everything",
+        "Sekai wa Mawaru to Iu Keredo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 36,
+      "question": "¿Bajo el mando de qué pirata estaban Anne Bonny y Mary Read?",
+      "imagen": "",
+      "answer": [
+        "Jack Rackham",
+        "Jolly Roger",
+        "Francis Drake",
+        "Henry Morgan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 37,
+      "question": "¿En cuál capítulo Satō queda esposada junto con un sospechoso en un baño de un edificio y pierde las llaves de las esposas?",
+      "imagen": "",
+      "answer": [
+        "Una historia de amor de la Policía Metropolitana 2",
+        "Una historia de amor de la Policía Metropolitana 5",
+        "Una historia de amor de la Policía Metropolitana 4",
+        "Una historia de amor de la Policía Metropolitana 6"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 38,
+      "question": "¿Cómo se llama la canción nemotécnica que resume las calles del centro de Kyōto que van del este a oeste, en orden de norte a sur?",
+      "imagen": "",
+      "answer": [
+        "Zettai Zetsumei",
+        "Temari uta",
+        "Omoide",
+        "Wakare"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 39,
+      "question": "¿Cuál era la última prueba/examen que tenían que dar Sonoko y Ran en el capítulo 304 “La temblorosa Policía Metropolitana: los 12 millones de rehenes”?",
+      "imagen": "",
+      "answer": [
+        "Matemáticas",
+        "Historia",
+        "Lengua",
+        "Inglés"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 40,
+      "question": "En la película 12 Conan sabe que van a disparar porque Haibara utiliza una flauta para mandarle el mensaje en código. ¿Qué notas toca Haibara para hacerlo?",
+      "imagen": "",
+      "answer": [
+        "Mi-La-La-La-Fa",
+        "Mi-La-Sol-Sol-Mi",
+        "Mi-Do-La-Sol-Mi",
+        "Mi-Sol-La-La-Fa-Mi"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+.recuadro-final-juego {
+  display: flex;
+  flex-direction: column;
+  border: 1.5px solid #090c0f;
+  max-width: 500px;
+  width: 100%;
+  background-color: #222d35;
+}
+
+.recuadro-final-juego p {
+  text-align: center;
+}
+
+.imagen-juego-final {
+  margin-top: 10px;
+  width: 500px;
+  height: auto;
+}
+
+.game-over-button {
+  display: flex;
+  flex-direction: row;
+  max-width: 500px;
+  padding: 8px;
+  background-color: #35424b;
+  color: #fafafa;
+  border: 2px solid #110d0d;
+  margin-top: 18px;
+  margin-bottom: 18px;
+}
+
+.game-over-button:hover {
+  cursor: pointer;
+}
+
+@media (max-width: 960px) {
+
+  .recuadro-final-juego {
+    display: flex;
+    flex-direction: column;
+    border: 1.5px solid #090c0f;
+    max-width: 350px;
+    width: 100%;
+    background-color: #222d35;
+  }
+
+  .recuadro-final-juego p {
+    text-align: center;
+  }
+
+  .imagen-juego-final {
+    margin-top: 10px;
+    width: 345px;
+    height: auto;
+  }
+}

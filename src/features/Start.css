@@ -1,0 +1,100 @@
+.botones-para-iniciar-juego {
+  display: flex;
+  flex-direction: row;
+  max-width: 500px;
+  width: 100%;
+  margin-bottom: 10px;
+  justify-content: space-around;
+}
+
+.botones-para-iniciar-juego button {
+  padding: 8px;
+  background-color: #35424b;
+  color: #FAFAFA;
+  border: 2px solid #110d0d;
+  margin-top: 25px;
+}
+
+.botones-para-iniciar-juego button:hover {
+  cursor: pointer;
+}
+
+.botones-para-iniciar-juego button:nth-child(1) {
+  background-color: #4bb64e;
+}
+
+.botones-para-iniciar-juego button:nth-child(2) {
+  background-color: #ec8a0aff;
+}
+
+.botones-para-iniciar-juego button:last-child {
+  background-color: #f44336;
+}
+
+.recuadro {
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border: 2px solid #090c0f;
+  margin-top: 25px;
+}
+
+.recuadro h2 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.recuadro h2:last-child {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.recuadro h5 {
+  text-align: center;
+}
+
+.recuadro li {
+  list-style: none;
+  margin-top: 10px;
+}
+
+.recuadro ul {
+  padding-left: 15px;
+}
+
+
+@media (max-width: 960px) {
+
+  .recuadro {
+    max-width: 350px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border: 2px solid #090c0f;
+    margin-top: 0;
+  }
+
+
+  .recuadro ul {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .botones-para-iniciar-juego {
+    display: flex;
+    flex-direction: row;
+    max-width: 500px;
+    width: 100%;
+    margin-bottom: 0;
+    justify-content: space-around;
+  }
+
+  .botones-para-iniciar-juego button {
+    padding: 8px;
+    background-color: #35424b;
+    color: #FAFAFA;
+    border: 2px solid #110d0d;
+    margin-top: 25px;
+  }
+}
