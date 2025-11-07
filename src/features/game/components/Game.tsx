@@ -1,9 +1,9 @@
-import '../../Game.css'
-import { useQuestionsStore } from "../../../store/questions"
-import { RightArrow, LeftArrow } from '../../../Icons'
-import { useQuestionsData } from '../../../hooks/useQuestionsData'
-import { TimerBar } from './TimeBar'
-import { Question } from '../gameLogic/Question'
+import '@features/Game.css'
+import { useQuestionsStore } from "@store/questions"
+import { RightArrow, LeftArrow } from '@features/Icons'
+import { useQuestionsData } from '@hooks/useQuestionsData'
+import { TimerBar } from '@gameComponents/TimeBar'
+import { Question } from '@gameLogic/Question'
 
 export const Game = () => {
   const questions = useQuestionsStore(state => state.questions)

@@ -1,5 +1,5 @@
-import '../../Start.css'
-import { useQuestionsStore } from "../../../store/questions"
+import { useQuestionsStore } from "@store/questions"
+import '@features/Start.css'
 
 export const Start = () => {
 

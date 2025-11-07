@@ -1,4 +1,5 @@
-import { useQuestionsStore } from "../../../store/questions"
+import { useQuestionsStore } from "@store/questions"
+
 export const TimerBar = () => {
   const timeLeft = useQuestionsStore(state => state.timeLeft)
   const totalTime = useQuestionsStore(state => state.totalTime)

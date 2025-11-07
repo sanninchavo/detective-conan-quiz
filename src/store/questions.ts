@@ -1,5 +1,5 @@
 import { create } from 'zustand'
-import { type Question } from '../types'
+import { type Question } from '@types'
 
 const QUESTION_TIME = 30000
 const FEEDBACK_TIME = 3000

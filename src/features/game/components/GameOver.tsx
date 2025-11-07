@@ -1,6 +1,6 @@
-import { useQuestionsData } from "../../../hooks/useQuestionsData"
-import '../../GameOver.css'
-import { useQuestionsStore } from "../../../store/questions"
+import { useQuestionsData } from "@hooks/useQuestionsData"
+import { useQuestionsStore } from "@store/questions"
+import '@features/GameOver.css'
 export const GameOver = () => {
   const { correct, name, img } = useQuestionsData()
   const resetGame = useQuestionsStore(state => state.reset)

@@ -1,7 +1,7 @@
-import { type Question as QuestionType } from '../../../types'
-import { useQuestionsStore } from "../../../store/questions"
-import { getBackgroundColor } from './getBackgroundColor'
-import '../../Game.css'
+import { type Question as QuestionType } from '@types'
+import { useQuestionsStore } from "@store/questions"
+import { getBackgroundColor } from '@gameLogic/getBackgroundColor'
+import '@features/Game.css'
 export const Question = ({ info }: { info: QuestionType }) => {
   const selectAnswer = useQuestionsStore(state => state.selectAnswer)
   const createHandleClick = (answerIndex: number) => () => {

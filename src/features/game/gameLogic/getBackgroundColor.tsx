@@ -1,4 +1,4 @@
-import { type Question as QuestionType } from '../../../types'
+import { type Question as QuestionType } from '@types'
 
 export const getBackgroundColor = (info: QuestionType, index: number) => {
   const { userSelectedAnswer, correctAnswer } = info

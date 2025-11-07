@@ -1,10 +1,10 @@
 import './App.css'
-import { Start } from './features/game/components/Start'
-import { useQuestionsStore } from './store/questions'
-import { Game } from './features/game/components/Game'
-import { Header } from './components/layout/Header'
-import { GameOver } from './features/game/components/GameOver'
-import { Footer } from './components/layout/Footer'
+import { Start } from '@gameComponents/Start'
+import { useQuestionsStore } from '@store/questions'
+import { Game } from '@gameComponents/Game'
+import { Header } from '@components/Header'
+import { GameOver } from '@gameComponents/GameOver'
+import { Footer } from '@components/Footer'
 function App() {
 
   const terminar = useQuestionsStore(state => state.state)
