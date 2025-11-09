@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "question": "Nombre del primer opening del anime",
+      "question": "'¿Cuál es el nombre del primer opening del anime?",
       "imagen": "",
       "answer": [
         "Mune ga dokidoki",
@@ -26,7 +26,7 @@
     },
     {
       "id": 3,
-      "question": "Nombre del mejor detective del oeste",
+      "question": "¿Cuál es el nombre del mejor detective del oeste?",
       "imagen": "",
       "answer": [
         "Nakamori Ginzō",
@@ -170,18 +170,6 @@
     },
     {
       "id": 15,
-      "question": "A secret makes a woman, woman. ¿Qué personaje dice esa frase?",
-      "imagen": "",
-      "answer": [
-        "Curaçao",
-        "Vermouth",
-        "Chianti",
-        "Kir"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 15,
       "question": "¿Qué seiyū le da la voz a Shinichi?",
       "imagen": "",
       "answer": [
@@ -206,7 +194,7 @@
     },
     {
       "id": 17,
-      "question": "¿De quién se disfraza Kaitō Kid en la película 3?",
+      "question": "¿De quién se disfraza Kaitō Kid en la película 3, El Hechicero del Fin del Siglo?",
       "imagen": "",
       "answer": [
         "Takagi",
@@ -230,7 +218,7 @@
     },
     {
       "id": 19,
-      "question": "¿A quién le dispara Gin pensando que es Sherry en la película 5?",
+      "question": "¿A quién le dispara Gin pensando que es Sherry en la película 5, “La Cuenta Regresiva al Cielo”?",
       "imagen": "",
       "answer": [
         "Miwako Satō",
@@ -287,18 +275,6 @@
         "Inglaterra"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": 24,
-      "question": "¿En dónde se conocieron por primera vez Shinichi y Ran?",
-      "imagen": "",
-      "answer": [
-        "Escuela primaria",
-        "Preparatoria",
-        "Preescolar",
-        "En una plaza"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": 24,
@@ -473,10 +449,10 @@
       "question": "Por la pandemia hubo una película que no salió en su año correspondiente, ¿cuál fue?",
       "imagen": "",
       "answer": [
-        "Película 22",
-        "Película 24",
-        "Película 23",
-        "Película 21"
+        "Película 22, El Ejecutor de Zero ",
+        "Película 24, La Bala Escarlata ",
+        "Película 23, El Puño de Azul Marino ",
+        "Película 21, Una Carta de Amor de Rojo Carmesí "
       ],
       "correctAnswer": 1
     },
@@ -503,6 +479,30 @@
         "Azul"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 41,
+      "question": "A secret makes a woman, woman. ¿Qué personaje dice esa frase?",
+      "imagen": "",
+      "answer": [
+        "Curaçao",
+        "Vermouth",
+        "Chianti",
+        "Kir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 42,
+      "question": "¿En dónde se conocieron por primera vez Shinichi y Ran?",
+      "imagen": "",
+      "answer": [
+        "Escuela primaria",
+        "Preparatoria",
+        "Preescolar",
+        "En una plaza"
+      ],
+      "correctAnswer": 2
     }
   ],
   "Medio": [
@@ -544,7 +544,7 @@
     },
     {
       "id": 4,
-      "question": "¿De qué iba disfrazado Kogorō para la fiesta de Halloween en el barco?",
+      "question": "¿De qué iba disfrazado Kogorō para la fiesta de Halloween en el barco en el episodio 345 “Confrontación directa con la Organización Negra: el misterio dual de la noche de luna llena”?",
       "imagen": "",
       "answer": [
         "Frankenstein",
@@ -607,10 +607,10 @@
       "question": "¿En qué película la seiyū de Mitsuhiko fue reemplazada por otra debido a una licencia por maternidad?",
       "imagen": "",
       "answer": [
-        "Película 14",
-        "Película 7",
-        "Película 10",
-        "Película 16"
+        "Película 14, El Barco Perdido del Cielo",
+        "Película 7, La Encrucijada del Laberinto",
+        "Película 10, El Réquiem de los Detectives",
+        "Película 16, El Undécimo Goleador"
       ],
       "correctAnswer": 2
     },
@@ -640,25 +640,13 @@
     },
     {
       "id": 12,
-      "question": "¿Cuál deporte muestran durante la película 21?",
+      "question": "¿Cuál deporte muestran durante la película 21, “Una Carta de Amor de Rojo Carmesí”?",
       "imagen": "",
       "answer": [
         "Karuta",
         "Shōgi",
         "Go",
         "Mahjong"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 13,
-      "question": "¿Cómo se llama el lugar en donde Shinichi y Ran se besaron?",
-      "imagen": "",
-      "answer": [
-        "Tokyo Skytree",
-        "Umeda Sky Building",
-        "Kiyomizu-dera",
-        "Sumiyoshi Taisha"
       ],
       "correctAnswer": 0
     },
@@ -676,7 +664,7 @@
     },
     {
       "id": 14,
-      "question": "¿Como se llama el primer opening que hizo Mai Kuraki?",
+      "question": "¿Cómo se llama el primer opening que hizo Mai Kuraki?",
       "imagen": "",
       "answer": [
         "Summer Time Gone",
@@ -685,18 +673,6 @@
         "Kaze no lalala"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": 15,
-      "question": "¿Shinichi iba a ser el mejor detective de qué era de Japón?",
-      "imagen": "",
-      "answer": [
-        "Era Heisei",
-        "Era Shōwa",
-        "Era Reiwa",
-        "Era Taishō"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": 15,
@@ -735,18 +711,6 @@
       "correctAnswer": 1
     },
     {
-      "id": 17,
-      "question": "¿De quién estaba enamorada Satō antes de Takagi?",
-      "imagen": "",
-      "answer": [
-        "Hagiwara Kenji",
-        "Shiratori Ninzaburō",
-        "Matsuda Jinpei",
-        "Megure Jūzō"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": 18,
       "question": "¿De quién se disfraza Vermouth para intentar secuestrar a Haibara?",
       "imagen": "",
@@ -760,7 +724,7 @@
     },
     {
       "id": 19,
-      "question": "¿Como se llama el asesino que Conan no pudo evitar que se suicidara?",
+      "question": "¿Cómo se llama el asesino que Conan no pudo evitar que se suicidara?",
       "imagen": "",
       "answer": [
         "Asō Seiji",
@@ -799,10 +763,10 @@
       "question": "¿En qué capítulo, Koyama Rikiya, le empezó a dar la voz a Kogorō?",
       "imagen": "",
       "answer": [
-        "548",
-        "556",
-        "560",
-        "553"
+        "547, La bruja que grita en la niebla (primera parte) ",
+        "556, La encrucijada del terror",
+        "565, El testigo que no vio",
+        "553, La sala de interrogatorios"
       ],
       "correctAnswer": 3
     },
@@ -849,7 +813,7 @@
       "answer": [
         "Tomando el antídoto",
         "Gracias al paikaru",
-        "Tranfusión de sangre",
+        "Transfusión de sangre",
         "Gracias a un invento del profesor Agasa"
       ],
       "correctAnswer": 1
@@ -859,28 +823,16 @@
       "question": "¿Cómo se llama el episodio en el que Heiji y Kazuha casi caen de un precipicio?",
       "imagen": "",
       "answer": [
-        "Y la sirena desapareció",
-        "Un caballo rojo dentro de la llama",
-        "El paradero del vergonzoso amuleto",
-        "Castillo Inubushi, el perro endemoniado de la llama"
+        "222-224, Y la sirena desapareció",
+        "325-327, Un caballo rojo dentro de la llama",
+        "573-574, El paradero del vergonzoso amuleto",
+        "611-613, Castillo Inubushi, el perro endemoniado de la llama"
       ],
       "correctAnswer": 0
     },
     {
-      "id": 27,
-      "question": "¿Cuál es el nombre de la droga APTX 4869?",
-      "imagen": "",
-      "answer": [
-        "Apotoxin 4869",
-        "Apoptoxin 4869",
-        "Apotixon 4869",
-        "Apotoxon 4869"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": 28,
-      "question": "En el capítulo 304(12 millones de rehenes), ¿cuál fue el total de la pista que Conan pudo obtener antes de apagar la bomba?",
+      "question": "En el capítulo 304, “La temblorosa Policía Metropolitana: los 12 millones de rehenes”, ¿cuál fue el total de la pista que Conan pudo obtener antes de apagar la bomba?",
       "imagen": "",
       "answer": [
         "XTR",
@@ -895,16 +847,16 @@
       "question": "¿En qué película los padres de Ran vuelve a vivir juntos temporalmente?",
       "imagen": "",
       "answer": [
-        "Película 8",
-        "Película 2",
-        "Película 4",
-        "Película 12"
+        "Película 8, El Mago de las Alas Plateadas ",
+        "Película 2, El Decimocuarto Objetivo",
+        "Película 4, El Asesino dentro de la Mirada",
+        "Película 12, Las Partituras del Terror"
       ],
       "correctAnswer": 2
     },
     {
       "id": 30,
-      "question": "¿Qué era lo que siempre pintaba Kisaragi Hōsui en la película 5?",
+      "question": "¿Qué era lo que siempre pintaba Kisaragi Hōsui en la película 5, “La Cuenta Regresiva al Cielo”?",
       "imagen": "",
       "answer": [
         "Templo Kinkakuji",
@@ -916,7 +868,7 @@
     },
     {
       "id": 31,
-      "question": "¿En qué vagón y sala se iba a llevar a cabo el incidente que era parte del evento durante el viaje en los capítulos 701-704, “El tren del misterio azabache“?",
+      "question": "¿En qué vagón y sala se iba a llevar a cabo el incidente que era parte del evento durante el viaje en los capítulos 701-704, “El tren del misterio azabache”?",
       "imagen": "",
       "answer": [
         "Vagón 6, Sala C",
@@ -952,7 +904,7 @@
     },
     {
       "id": 34,
-      "question": "¿Cómo se llama el barco en el que se desarrolla la película 9?",
+      "question": "¿Cómo se llama el barco en el que se desarrolla la película 9,“La Estrategia sobre el Horizonte”?",
       "imagen": "",
       "answer": [
         "Aphrodite",
@@ -1033,6 +985,54 @@
         "Kira Hasue"
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": 41,
+      "question": "¿Cómo se llama el lugar en donde Shinichi y Ran se besaron?",
+      "imagen": "",
+      "answer": [
+        "Tokyo Skytree",
+        "Umeda Sky Building",
+        "Kiyomizu-dera",
+        "Sumiyoshi Taisha"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 42,
+      "question": "¿Shinichi iba a ser el mejor detective de qué era de Japón?",
+      "imagen": "",
+      "answer": [
+        "Era Heisei",
+        "Era Shōwa",
+        "Era Reiwa",
+        "Era Taishō"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 43,
+      "question": "¿De quién estaba enamorada Satō antes de Takagi?",
+      "imagen": "",
+      "answer": [
+        "Hagiwara Kenji",
+        "Shiratori Ninzaburō",
+        "Matsuda Jinpei",
+        "Megure Jūzō"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 44,
+      "question": "¿Cuál es el nombre de la droga APTX 4869?",
+      "imagen": "",
+      "answer": [
+        "Apotoxin 4869",
+        "Apoptoxin 4869",
+        "Apotixon 4869",
+        "Apotoxon 4869"
+      ],
+      "correctAnswer": 1
     }
   ],
   "Difícil": [
@@ -1050,7 +1050,7 @@
     },
     {
       "id": 2,
-      "question": "Nombre del ending 16 del anime",
+      "question": "¿Cuál es el nombre del ending número 16 del anime?",
       "imagen": "",
       "answer": [
         "Start in my life",
@@ -1074,7 +1074,7 @@
     },
     {
       "id": 4,
-      "question": "Cómo se llama la profesora que le hizo clases de niños a Shinichi y Ran, y que termina cometiendo un asesinato múltiple?",
+      "question": "¿Cómo se llama la profesora que le hizo clases de niños a Shinichi y Ran, y que termina cometiendo un asesinato múltiple?",
       "imagen": "",
       "answer": [
         "Isami Nagakura",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": 20,
-      "question": "¿De qué nivel es la bacteria que se roban en la película 14?",
+      "question": "¿De qué nivel es la bacteria que se roban en la película 14, “El Barco Perdido del Cielo”?",
       "imagen": "",
       "answer": [
         "Nivel 5",
@@ -1302,7 +1302,7 @@
     },
     {
       "id": 23,
-      "question": "¿De cuantas yardas es la distancia máxima de disparo que pueden hacer Chianti y Korn en el episodio 425?",
+      "question": "¿De cuantas yardas es la distancia máxima de disparo que pueden hacer Chianti y Korn en el episodio 425, “¡Impacto negro! El momento en el cual llegan las manos de la Organización”?",
       "imagen": "",
       "answer": [
         "500 yardas",
@@ -1314,7 +1314,7 @@
     },
     {
       "id": 24,
-      "question": "¿Cómo se llama el niño que estuvo en coma en la película 15?",
+      "question": "¿Cómo se llama el niño que estuvo en coma en la película 15, “15 Minutos de Silencio”?",
       "imagen": "",
       "answer": [
         "Matsubara Chiharu",
@@ -1350,13 +1350,25 @@
     },
     {
       "id": 27,
-      "question": "¿Cómo se llama el bebé que cuidan Heiji, Kazuha y Conan en el magic file 4?",
+      "question": "¿Cómo se llama el bebé que cuidan Heiji, Kazuha y Conan en el magic file 4, “La Odisea del Okonomiyaki en Ōsaka”?",
       "imagen": "",
       "answer": [
         "Kaoru",
         "Hikaru",
         "Haruka",
         "Motegi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 28,
+      "question": "En la película 12, “Las Partituras del Terror”, Conan sabe que la policía va a disparar porque Haibara utiliza una flauta para mandarle el mensaje en código. ¿Qué notas toca Haibara para hacerlo?",
+      "imagen": "",
+      "answer": [
+        "Mi-La-La-La-Fa",
+        "Mi-La-Sol-Sol-Mi",
+        "Mi-Do-La-Sol-Mi",
+        "Mi-Sol-La-La-Fa-Mi"
       ],
       "correctAnswer": 0
     },
@@ -1374,7 +1386,7 @@
     },
     {
       "id": 30,
-      "question": "¿Qué número de carta de la baraja le pertenecía al inspector Megure en la película 2?",
+      "question": "¿Qué número de carta de la baraja le pertenecía al inspector Megure en la película 2, “El Decimocuarto Objetivo”?",
       "imagen": "",
       "answer": [
         "6",
@@ -1386,7 +1398,7 @@
     },
     {
       "id": 31,
-      "question": "¿En dónde aterriza Ran el avión en la película 8?",
+      "question": "¿En dónde aterriza Ran el avión en la película 8, “El Mago de las Alas Plateadas”?",
       "imagen": "",
       "answer": [
         "Aeropuerto de Haneda",
@@ -1398,7 +1410,7 @@
     },
     {
       "id": 32,
-      "question": "¿Qué escribió Ran en su tarjeta de deseo cuando era niña en el recuerdo del magic file 3?",
+      "question": "¿Qué escribió Ran en su tarjeta de deseo cuando era niña en el recuerdo del magic file 3, “Shinichi y Ran, las fichas de Mahjong y el recuerdo de Tanabata”?",
       "imagen": "",
       "answer": [
         "Deseo que Shinichi sea mi novio",
@@ -1461,10 +1473,10 @@
       "question": "¿En cuál capítulo Satō queda esposada junto con un sospechoso en un baño de un edificio y pierde las llaves de las esposas?",
       "imagen": "",
       "answer": [
-        "Una historia de amor de la Policía Metropolitana 2",
-        "Una historia de amor de la Policía Metropolitana 5",
-        "Una historia de amor de la Policía Metropolitana 4",
-        "Una historia de amor de la Policía Metropolitana 6"
+        "156-157, Una historia de amor de la Policía Metropolitana 2",
+        "358-359, Una historia de amor de la Policía Metropolitana 5",
+        "253-254, Una historia de amor de la Policía Metropolitana 4",
+        "390-391, Una historia de amor de la Policía Metropolitana 6"
       ],
       "correctAnswer": 0
     },
@@ -1491,18 +1503,6 @@
         "Inglés"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": 40,
-      "question": "En la película 12 Conan sabe que van a disparar porque Haibara utiliza una flauta para mandarle el mensaje en código. ¿Qué notas toca Haibara para hacerlo?",
-      "imagen": "",
-      "answer": [
-        "Mi-La-La-La-Fa",
-        "Mi-La-Sol-Sol-Mi",
-        "Mi-Do-La-Sol-Mi",
-        "Mi-Sol-La-La-Fa-Mi"
-      ],
-      "correctAnswer": 0
     }
   ]
 }
